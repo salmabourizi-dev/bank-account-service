@@ -11,6 +11,9 @@ Elle permet de consulter la liste des comptes et de rechercher un compte par son
 - [Technologies](#technologies)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
+- [Base donnée](#Base-donnée)
+- [swagger](#swagger)
+- [GraphQl](#graphql)
 - [Utilisation](#utilisation)
 - [Captures d'écran](#captures-décran)
 - [Auteurs](#auteurs)
@@ -52,4 +55,4 @@ Elle permet de consulter la liste des comptes et de rechercher un compte par son
 1. Cloner le projet :
 
 ```bash
-git clone https://github.com/ton-utilisateur/bank-account-service.git
+git clone https://github.com/salmabourizi-dev/bank-account-service.git
